@@ -1,0 +1,14 @@
+Description,GL Code,Debit,Credit
+"Bank Account (Demo Bank, matches statement opening balance)",1010,8450.00,
+Cash on Hand (till float),1050,150.00,
+Inventory Stock (food and drink),1300,2100.00,
+"Plant & Equipment (kitchen equipment, cost)",1620,18500.00,
+Accum. Depreciation - Equipment,1630,,5550.00
+Fixtures & Fittings (cost),1680,6000.00,
+Accum. Depreciation - Fixtures & Fittings,1682,,1800.00
+Trade Payables (suppliers owed at year end),2001,,1840.00
+VAT Payable,2020,,1620.00
+Income Tax Payable (August PAYE/NIC due to HMRC),2030,,742.36
+Director's Loan Account (owed to D Morgan),8001,,2500.00
+Capital/Share Capital,3010,,100.00
+Retained Earnings,3001,,21047.64
